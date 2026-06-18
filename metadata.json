@@ -1,0 +1,6 @@
+{
+  "name": "DareMe",
+  "description": "The viral daily challenges app with a sarcastic AI Referee. Complete quirky dares, level up on the chaotic global leaderboard, and share beautiful custom meme cards of your scores!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
